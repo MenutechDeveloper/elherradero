@@ -132,14 +132,7 @@ body {
   font-size: 2em;
 }
 
-.titulolinea h3::after, h3::before {
-  content: '';
-  position: absolute;
-  width: 120px;
-  height: 3px;
-  background-color: #AFAFAD;
-  top: 0.6em;
-}
+
 
 .titulolinea h3::before {
   left: -140px;
